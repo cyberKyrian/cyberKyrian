@@ -1,17 +1,13 @@
-# Hello, I'm Kyrian Onyeagusi
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Kyrian Onyeagusi.
+<a href="https://www.linkedin.com/in/kyrian-onyeagusi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a graduate of Computer Engineering with a profound interest in securing digital systems and domains from threats, and a dedication to emerging technologies and solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I aim to channel my enthusiasm and expertise into the field of cybersecurity, crafting innovative solutions that protect critical systems and data. My goal is to not only address existing challenges but also anticipate and mitigate emerging threats, all while growing in a dynamic and collaborative environment as a Cybersecurity Analyst and consultant. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
