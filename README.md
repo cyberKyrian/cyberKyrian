@@ -56,4 +56,4 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 - Phishing Detection using AI/ML
 
 ## Articles
-- Securing Critical Infrastructures Using Artificial Intelligence
+- Securing Critical Infrastructures Using Artificial Intelligence (Cybersecurity Association of Nigeria)
