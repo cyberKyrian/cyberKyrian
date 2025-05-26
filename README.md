@@ -13,10 +13,10 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a hef="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hef="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Detection and Analysis Lab|
+| Incident Response Planning and Execution      | Playbook Docs|
+| Case Management with TheHive                  | Incidence Response Lab|
+| Scripting and Automation for Threat Mitigation | Automation Flow|
 
 ## Tools
 
