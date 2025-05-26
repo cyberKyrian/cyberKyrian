@@ -5,7 +5,7 @@ I am a graduate of Computer Engineering with a profound interest in securing dig
 
 ## Objective
 
-I aim to channel my enthusiasm and expertise into the field of cybersecurity, crafting innovative solutions that protect critical systems and data. My goal is to not only address existing challenges but also anticipate and mitigate emerging threats, all while growing in a dynamic and collaborative environment as a Cybersecurity Analyst and consultant. 
+I aim to channel my enthusiasm and expertise into the field of cybersecurity, crafting innovative solutions that protect critical systems and data. My goal is to not only address existing challenges but also anticipate and mitigate emerging threats, all while growing in a dynamic and collaborative environment as a Cybersecurity Engineer and Consultant. 
 
 ## Skills
 
