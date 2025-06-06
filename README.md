@@ -11,13 +11,13 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hef="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hef="https://github.com/cyberKyrian/ad-security-lab">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/cyberKyrian/ad-security-lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | Detection and Analysis Lab|
 | Incident Response Planning and Execution      | Playbook Docs|
 | Case Management with TheHive                  | Incidence Response Lab|
 | Scripting and Automation for Threat Mitigation | Automation Flow|
-| Active Directory Hardening | <a hef="https://github.com/cyberKyrian/ad-security-lab">Active Directory Security Lab</a>|
+| Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab">Active Directory Security Lab</a>|
 
 
 ## Tools
