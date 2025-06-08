@@ -17,7 +17,7 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 | Incident Response Planning and Execution      | Playbook Docs|
 | Case Management with TheHive                  | Incidence Response Lab|
 | Scripting and Automation for Threat Mitigation | Automation Flow|
-| Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab">Active Directory Security Lab</a>|
+| Enterprise Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab">Active Directory Security Lab</a>|
 
 
 ## Tools
