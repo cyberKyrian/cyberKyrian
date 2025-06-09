@@ -18,7 +18,7 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 | Case Management with TheHive                  | Incidence Response Lab|
 | Scripting and Automation for Threat Mitigation | Automation Flow|
 | Enterprise Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab">Active Directory Security Lab</a>|
-
+| Phishing Detection Using Machine Learning | <a href="https://github.com/cyberKyrian/ad-security-lab">Phishing Detection Web App Lab</a>|
 
 ## Tools
 
