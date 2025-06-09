@@ -19,6 +19,7 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 | Scripting and Automation for Threat Mitigation | Automation Flow|
 | Enterprise Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab">Active Directory Security Lab</a>|
 | Phishing Detection Using Machine Learning | <a href="https://github.com/cyberKyrian/ad-security-lab">Phishing Detection Web App Lab</a>|
+| AWS Cloud Security Audit | <a href="https://github.com/cyberKyrian/ad-security-lab">AWS Security Misconfiguration</a>|
 
 ## Tools
 
