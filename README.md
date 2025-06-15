@@ -11,10 +11,11 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Intelligence/Hunting | <a href="https://github.com/cyberKyrian/ai-log-tool/">AI-Powered Log Threat Hunting Lab</a>|
+| Threat Intelligence / Hunting | <a href="https://github.com/cyberKyrian/ai-log-tool/">AI-Powered Log Threat Hunting Lab</a>|
 | AWS API Hardening | <a href="https://github.com/cyberKyrian/secure-severless-api-aws/blob/main/README.md">Secure Severless API (Node.js + AWS API Gateway)</a>|
 | Enterprise Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab">Windows Server 2022 & Client v10 Hardening</a>|
 | Vulnerability Management | <a href="https://github.com/cyberKyrian/ad-security-lab">Phishing Detection Web App Project</a>|
+| Threat Hunting / Analysis | <a href="https://github.com/cyberKyrian/splunk-threat-hunting/">Splunk Threat Hunting Lab</a>|
 | Cloud Security Audit | <a href="https://github.com/cyberKyrian/ad-security-lab">AWS Security Misconfiguration</a>|
 
 ## Tools
