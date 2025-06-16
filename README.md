@@ -11,12 +11,12 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Intelligence / Hunting | <a href="https://github.com/cyberKyrian/ai-log-tool/">AI-Powered Log Threat Hunting Lab</a>|
+| Threat Intelligence / Hunting | <a href="https://github.com/cyberKyrian/ai-log-tool/">AI-Powered Log Threat Hunting Tool</a>|
 | AWS API Hardening | <a href="https://github.com/cyberKyrian/secure-severless-api-aws/blob/main/README.md">Secure Severless API (Node.js + AWS API Gateway)</a>|
 | Enterprise Active Directory Hardening | <a href="https://github.com/cyberKyrian/ad-security-lab/blob/main/README.md">Windows Server 2022 & Client v10 Hardening</a>|
 | Vulnerability Management | <a href="https://github.com/cyberKyrian/ad-security-lab">Phishing Detection Web App Project</a>|
-| Threat Hunting / Analysis | <a href="https://github.com/cyberKyrian/splunk-threat-hunting/blob/main/README.md">Splunk Threat Hunting Lab</a>|
-| Cloud Security Auditing | <a href="https://github.com/cyberKyrian/ad-security-lab/blob/main/README.md">AWS Security Misconfiguration</a>|
+| Threat Hunting / Analysis | <a href="https://github.com/cyberKyrian/splunk-threat-hunting/blob/main/README.md">Splunk Threat Hunting</a>|
+| Cloud Security Auditing | <a href="https://github.com/cyberKyrian/aws-security-audit/blob/main/README.md">AWS Security Misconfiguration Audit</a>|
 | Network Investigation | <a href="https://github.com/cyberKyrian/malware-c2-analysis/blob/main/README.md">Malware C2 and Ransomware PCAP Analysis with Wireshark</a>|
 
 ## Tools
