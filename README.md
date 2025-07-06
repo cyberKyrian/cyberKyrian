@@ -11,16 +11,16 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure RBAC & Conditional Access Policies | <a href="https://github.com/cyberKyrian/azure-rbac-hardening/blob/main/README.md">Azure Role-Based Access Control (RBAC) Misconfiguration Lab</a>|
-| Azure RBAC & Conditional Access Policies | <a href="https://github.com/cyberKyrian/azure-defender/blob/main/README.md">Azure Defender for Cloud Security Lab</a>|
-| AWS API Hardening | <a href="https://github.com/cyberKyrian/secure-severless-api-aws/blob/main/README.md">Secure Severless API (Node.js + AWS API Gateway)</a>|
-| Azure Secret Management | <a href="https://github.com/cyberKyrian/azure-key-vault-misuse/blob/main/README.md">Azure Key Vault Misconfiguration & Hardening Lab</a>|
-| AWS Cloud Security Auditing | <a href="https://github.com/cyberKyrian/aws-security-audit/blob/main/README.md">AWS Security Misconfiguration Audit</a>|
-| Enterprise Active Directory Configuration | <a href="https://github.com/cyberKyrian/ad-security-lab/blob/main/README.md">Windows Server 2022 & Client v10 Hardening</a>|
-| Threat Hunting / Analysis | <a href="https://github.com/cyberKyrian/splunk-threat-hunting/blob/main/README.md">Splunk Threat Hunting</a>|
-| Network Investigation | <a href="https://github.com/cyberKyrian/malware-c2-analysis/blob/main/README.md">Malware C2 and Ransomware PCAP Analysis with Wireshark</a>|
-| Threat Intelligence / Hunting | <a href="https://github.com/cyberKyrian/ai-log-tool/">AI-Powered Log Threat Hunting Tool</a>|
-| Vulnerability Management | <a href="https://github.com/cyberKyrian/ad-security-lab">Phishing Detection Web App Project</a>|
+| Azure RBAC, Identity & Access Management (IAM), Cloud Security, Misconfiguration Detection | <a href="https://github.com/cyberKyrian/azure-rbac-hardening/blob/main/README.md">Azure Role-Based Access Control (RBAC) Misconfiguration Lab</a>|
+| Azure Security Center, Threat Detection, Cloud Monitoring, Security Posture Management | <a href="https://github.com/cyberKyrian/azure-defender/blob/main/README.md">Azure Defender for Cloud Security Lab</a>|
+| Node.js, AWS API Gateway, Serverless Architecture, API Security, Lambda Functions | <a href="https://github.com/cyberKyrian/secure-severless-api-aws/blob/main/README.md">Secure Severless API (Node.js + AWS API Gateway)</a>|
+| Azure Key Vault, Secrets Management, Cloud Hardening, Access Policies, Encryption | <a href="https://github.com/cyberKyrian/azure-key-vault-misuse/blob/main/README.md">Azure Key Vault Misconfiguration & Hardening Lab</a>|
+| AWS IAM, Security Auditing, CloudTrail, Config Rules, Misconfiguration Detection | <a href="https://github.com/cyberKyrian/aws-security-audit/blob/main/README.md">AWS Security Misconfiguration Audit</a>|
+| Windows Security, Group Policy, System Hardening, Patch Management, CIS Benchmarks | <a href="https://github.com/cyberKyrian/ad-security-lab/blob/main/README.md">Windows Server 2022 & Client v10 Hardening</a>|
+| Splunk, SIEM, Threat Detection, Log Analysis, Security Analytics | <a href="https://github.com/cyberKyrian/splunk-threat-hunting/blob/main/README.md">Splunk Threat Hunting</a>|
+| Wireshark, PCAP Analysis, Malware Traffic Analysis, Ransomware Behavior, Network Forensics | <a href="https://github.com/cyberKyrian/malware-c2-analysis/blob/main/README.md">Malware C2 and Ransomware PCAP Analysis with Wireshark</a>|
+| Python, Machine Learning, Log Analysis, Threat Detection, Data Engineering | <a href="https://github.com/cyberKyrian/ai-log-tool/">AI-Powered Log Threat Hunting Tool</a>|
+| Web Development, Email Security, Phishing Detection, Regex Filtering | <a href="https://github.com/cyberKyrian/ad-security-lab">Phishing Detection Web App Project</a>|
 
 ## Tools
 
