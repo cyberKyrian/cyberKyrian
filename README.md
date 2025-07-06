@@ -11,8 +11,9 @@ I aim to channel my enthusiasm and expertise into the field of cybersecurity, cr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| RBAC & Conditional Access Policies | <a href="https://github.com/cyberKyrian/azure-rbac-hardening/blob/main/README.md">Azure Role-Based Access Control (RBAC) Misconfiguration Lab</a>|
+| Azure RBAC & Conditional Access Policies | <a href="https://github.com/cyberKyrian/azure-rbac-hardening/blob/main/README.md">Azure Role-Based Access Control (RBAC) Misconfiguration Lab</a>|
 | AWS API Hardening | <a href="https://github.com/cyberKyrian/secure-severless-api-aws/blob/main/README.md">Secure Severless API (Node.js + AWS API Gateway)</a>|
+| Azure Secret Management | <a href="https://github.com/cyberKyrian/azure-key-vault-misuse/blob/main/README.md">Azure Key Vault Misconfiguration & Hardening Lab</a>|
 | AWS Cloud Security Auditing | <a href="https://github.com/cyberKyrian/aws-security-audit/blob/main/README.md">AWS Security Misconfiguration Audit</a>|
 | Enterprise Active Directory Configuration | <a href="https://github.com/cyberKyrian/ad-security-lab/blob/main/README.md">Windows Server 2022 & Client v10 Hardening</a>|
 | Threat Hunting / Analysis | <a href="https://github.com/cyberKyrian/splunk-threat-hunting/blob/main/README.md">Splunk Threat Hunting</a>|
