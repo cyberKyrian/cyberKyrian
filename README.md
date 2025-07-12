@@ -1,11 +1,7 @@
-# Hello, I'm Kyrian Onyeagusi - Cloud Security Engineer
+# Hi! I'm Kyrian Onyeagusi - Cybersecurity Analyst & Cloud Security Enthusiast 
 <a href="https://www.linkedin.com/in/kyrian-onyeagusi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cloud Security Engineer with profound interest in securing digital systems and domains from threats, and a dedication to emerging technologies and solving complex problems.
-
-## Objective
-
-I aim to channel my enthusiasm and expertise into the field of cybersecurity, crafting innovative solutions that protect critical systems and data. My goal is to not only address existing challenges but also anticipate and mitigate emerging threats, all while growing in a dynamic and collaborative environment as a Cybersecurity Engineer and Consultant. 
+Cybersecurity Analyst and Cloud Security Enthusiast with hands-on experience across threat detection, phishing defense, cloud security auditing, and incident response. Skilled in system hardening, log analysis, and defensive engineering using tools like Splunk, Wireshark, AWS, and Azure. Strong track record of building and documenting security labs and AI-powered tools. Passionate about bridging AI and cybersecurity in scalable, real-world applications
 
 ## Skills
 
