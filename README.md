@@ -7,6 +7,7 @@ Results-driven Security Engineer with experience securing cloud and enterprise e
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| AWS CLI, Terraform, IaC, Prowler, IAM, Cloud Security, CSPM, Misconfiguration Detection | <a href="https://github.com/cyberKyrian/AWS-IaC-Security-Automation/blob/main/README.md">AWS-Infrastructure as Code Security Automation</a>|
 | Azure RBAC, Identity & Access Management (IAM), Cloud Security, Misconfiguration Detection | <a href="https://github.com/cyberKyrian/azure-rbac-hardening/blob/main/README.md">Azure Role-Based Access Control (RBAC) Misconfiguration Lab</a>|
 | Azure Security Center, Threat Detection, Cloud Monitoring, Security Posture Management | <a href="https://github.com/cyberKyrian/azure-defender/blob/main/README.md">Azure Defender for Cloud Security Lab</a>|
 | Node.js, AWS API Gateway, Serverless Architecture, API Security, Lambda Functions | <a href="https://github.com/cyberKyrian/secure-severless-api-aws/blob/main/README.md">Secure Severless API (Node.js + AWS API Gateway)</a>|
