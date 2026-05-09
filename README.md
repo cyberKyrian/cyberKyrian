@@ -7,6 +7,8 @@ Results-driven Security Engineer with experience securing cloud and enterprise e
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Database Security Engineering | <a href="[https://github.com/cyberKyrian/AWS-IaC-Security-Automation/blob/main/README.md](https://github.com/cyberKyrian/postgresaql-audit-log-setup/blob/main/README.md)">PostgreSQL Database Activity Monitoring with pgAudit</a>|
+| Database Security Engineering | <a href="[https://github.com/cyberKyrian/AWS-IaC-Security-Automation/blob/main/README.md](https://github.com/cyberKyrian/HashiCorp-Vault-Dynamic-DB-Secrets/blob/main/README.md)">HashiCorp Vault — Dynamic Database Secrets for PostgreSQL</a>|
 | AWS CLI, Terraform, IaC, Prowler, IAM, Cloud Security, CSPM, Misconfiguration Detection | <a href="https://github.com/cyberKyrian/AWS-IaC-Security-Automation/blob/main/README.md">AWS-Infrastructure as Code Security Automation</a>|
 | Azure RBAC, Identity & Access Management (IAM), Cloud Security, Misconfiguration Detection | <a href="https://github.com/cyberKyrian/azure-rbac-hardening/blob/main/README.md">Azure Role-Based Access Control (RBAC) Misconfiguration Lab</a>|
 | Azure Security Center, Threat Detection, Cloud Monitoring, Security Posture Management | <a href="https://github.com/cyberKyrian/azure-defender/blob/main/README.md">Azure Defender for Cloud Security Lab</a>|
